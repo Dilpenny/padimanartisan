@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014976582420",
+    "project_id": "padimanartisan",
+    "storage_bucket": "padimanartisan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014976582420:android:348d0dc79b26987e5fe801",
+        "android_client_info": {
+          "package_name": "com.naya.padimanartisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014976582420-h1bogb10dpmlforjnu6vu2tj85cmhaqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuWY8crqJaTHsL7XsRX_aWV5pcTZ1lUho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014976582420-h1bogb10dpmlforjnu6vu2tj85cmhaqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
